@@ -11,8 +11,7 @@ gem 'sass-rails', '5.0.6'
 gem 'uglifier', '3.0.0'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '4.2.1'
-# See https://github.com/rails/execjs#readme for more supported runtimes
-gem 'sqlite3', '~>1.3.0'
+# See https://github.com/rails/execjs#readme for more supported runtimes'
 # gem 'therubyracer', platforms: :ruby
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '4.1.1'
@@ -30,6 +29,8 @@ gem 'jbuilder', '2.5.0'
 
 #Use twitter bootstrap library for front-end UI and layout
 gem 'bootstrap-sass', '3.3.7'
+#Use font awesome sass gem for adding icons
+gem 'font-awesome-sass', '4.6.2'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
